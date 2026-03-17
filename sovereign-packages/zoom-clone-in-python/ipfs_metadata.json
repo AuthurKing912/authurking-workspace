@@ -1,0 +1,31 @@
+{
+  "name": "Zoom Clone in Python",
+  "symbol": "SKILL_",
+  "description": "From YouTube playlist 'AAA': Zoom Clone in Python. Core technique: skill_md. Build this into a replicable system, sell the skill.md, tokenize as NFT, run tournaments around the rubric.",
+  "attributes": [
+    {
+      "trait_type": "KPI_Type",
+      "value": "skill_md"
+    },
+    {
+      "trait_type": "ROI_Score",
+      "value": 9.52
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Sagittarius \u2650"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "ZZ-PURPLE"
+    },
+    {
+      "trait_type": "Grover_Score",
+      "value": 10.7577
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "C144"
+    }
+  ]
+}

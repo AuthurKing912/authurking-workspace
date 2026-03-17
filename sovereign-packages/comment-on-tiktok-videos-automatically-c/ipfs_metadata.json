@@ -1,0 +1,31 @@
+{
+  "name": "Comment on Tiktok videos automatically - Coding Tu",
+  "symbol": "ACTION",
+  "description": "From YouTube playlist 'AAA': Comment on Tiktok videos automatically - Coding Tutorial. Core technique: action_replicator, youtube_intelligence. Build this into a replicable system, sell the skill.md, ",
+  "attributes": [
+    {
+      "trait_type": "KPI_Type",
+      "value": "action_replicator"
+    },
+    {
+      "trait_type": "ROI_Score",
+      "value": 10.0
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aries \u2648"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "ZZ-RED"
+    },
+    {
+      "trait_type": "Grover_Score",
+      "value": 11.0256
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "C144"
+    }
+  ]
+}

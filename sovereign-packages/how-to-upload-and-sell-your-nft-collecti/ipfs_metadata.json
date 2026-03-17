@@ -1,0 +1,31 @@
+{
+  "name": "How to upload and sell your NFT Collection on Open",
+  "symbol": "SOLANA",
+  "description": "From YouTube playlist 'AAA': How to upload and sell your NFT Collection on OpenSea for free (NO GAS FEE). Core technique: solana_nft, revenue_model. Build this into a replicable system, sell the skill",
+  "attributes": [
+    {
+      "trait_type": "KPI_Type",
+      "value": "solana_nft"
+    },
+    {
+      "trait_type": "ROI_Score",
+      "value": 10.0
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Taurus \u2649"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "ZZ-SILVER"
+    },
+    {
+      "trait_type": "Grover_Score",
+      "value": 11.0256
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "C144"
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+{
+  "playlist": "AAA",
+  "total": 100,
+  "videos": [
+    {
+      "pos": 2,
+      "id": "hYaCCpvjsEY",
+      "title": "The easiest way to build an automation bot or script",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator"
+      ]
+    },
+    {
+      "pos": 4,
+      "id": "TQmOs20A4j8",
+      "title": "[2020] How to build a YouTube Comment Bot with Python (API method)",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator",
+        "youtube_intelligence",
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 5,
+      "id": "YTngTjphSRY",
+      "title": "How to upload and sell your NFT Collection on OpenSea for free (NO GAS FEE)",
+      "roi": 10.0,
+      "kpis": [
+        "solana_nft",
+        "revenue_model"
+      ]
+    },
+    {
+      "pos": 7,
+      "id": "38jtY3uCV3E",
+      "title": "How to run Selenium Bots on VPS 24/7 for FREE",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator"
+      ]
+    },
+    {
+      "pos": 8,
+      "id": "MSLs8pWvFVc",
+      "title": "How to get traffic in CPA using TikTok #cpamarketing",
+      "roi": 10.0,
+      "kpis": [
+        "revenue_model",
+        "youtube_intelligence"
+      ]
+    },
+    {
+      "pos": 9,
+      "id": "1BOcED3RFGM",
+      "title": "How to Promote and Sell NFTs with Instagram Message BOT",
+      "roi": 10.0,
+      "kpis": [
+        "solana_nft",
+        "action_replicator",
+        "revenue_model",
+        "youtube_intelligence"
+      ]
+    },
+    {
+      "pos": 10,
+      "id": "GeOku9Md_BI",
+      "title": "[2020] How to build a YouTube Comment Bot with Python (selenium method)",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator",
+        "youtube_intelligence",
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 12,
+      "id": "GpDQpiCiNZ8",
+      "title": "Comment on Tiktok videos automatically - Coding Tutorial",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator",
+        "youtube_intelligence"
+      ]
+    },
+    {
+      "pos": 23,
+      "id": "af0MVXhSLdg",
+      "title": "Automatically Fill Word Files with Python",
+      "roi": 10.0,
+      "kpis": [
+        "action_replicator",
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 6,
+      "id": "MoeCdMVeuJQ",
+      "title": "Build Instagram Clone with ReactJS 2023 #coding",
+      "roi": 9.81,
+      "kpis": [
+        "youtube_intelligence",
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 24,
+      "id": "clV3QHkHGPM",
+      "title": "ChatGPT Unleashed: The Power of Custom Instructions",
+      "roi": 9.77,
+      "kpis": [
+        "ai_agent"
+      ]
+    },
+    {
+      "pos": 15,
+      "id": "YiVvw1LxAzI",
+      "title": "Zoom Clone in Python",
+      "roi": 9.52,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 13,
+      "id": "6FNWI9z_5J4",
+      "title": "Predicting Stock Prices in Python",
+      "roi": 9.24,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 17,
+      "id": "wOCcsGNtpqc",
+      "title": "Matplotlib Animations in Python",
+      "roi": 9.24,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 20,
+      "id": "PWc4bLZOSKw",
+      "title": "Generating Poetic Texts with Recurrent Neural Networks in Python",
+      "roi": 9.24,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 22,
+      "id": "Szww2_VqEKs",
+      "title": "Build Machine Learning Applications Easily with Gradio in Python",
+      "roi": 9.24,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 25,
+      "id": "8FZl_RD1b04",
+      "title": "Custom Format Specifiers for Python Classes",
+      "roi": 9.24,
+      "kpis": [
+        "skill_md"
+      ]
+    },
+    {
+      "pos": 11,
+      "id": "QSybf_Q845k",
+      "title": "How to install and setup OpenEdx in your own server",
+      "roi": 8.72,
+      "kpis": []
+    },
+    {
+      "pos": 1,
+      "id": "sBzL_zoYt6o",
+      "title": "How to install Windows 10 in VirtualBox ",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 3,
+      "id": "gXnQPPOcr28",
+      "title": "How to install Windows 11 in Macbook M1/M2/M3/M4 Chip using VirtualBox 2026",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 14,
+      "id": "4rV7yC7nBps",
+      "title": "5 Awesome Linux Terminal Tools You Must Know",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 16,
+      "id": "Rkw0yLGClxk",
+      "title": "Hide Information in JPEG Files",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 18,
+      "id": "VLvlJejZ9TE",
+      "title": "Seaborn Is The Easier Matplotlib",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 19,
+      "id": "nqHQWkmuXxE",
+      "title": "Be Careful When Using scanf() in C",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 21,
+      "id": "2702kd5aSRQ",
+      "title": "Pagination in Flask: Split Your Data Into Pages",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 26,
+      "id": "7YcBI9BFSqI",
+      "title": "Keyboard shortcuts",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 27,
+      "id": "JWdxMZ2ldYA",
+      "title": "Spherical Videos",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 28,
+      "id": "he-BpIyXIZQ",
+      "title": "Video 109",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 29,
+      "id": "lkEl5uebJfE",
+      "title": "Video 113",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 30,
+      "id": "_odcrBrvxdY",
+      "title": "Video 117",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 31,
+      "id": "5xXuHgZuKLg",
+      "title": "Video 121",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 32,
+      "id": "EWk8e2jOLMw",
+      "title": "Video 125",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 33,
+      "id": "c_IU6J57Ygk",
+      "title": "Video 129",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 34,
+      "id": "1UrDB0TlenE",
+      "title": "Video 133",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 35,
+      "id": "TCSGrBGVTJA",
+      "title": "Video 137",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 36,
+      "id": "jtJD2hmWpbg",
+      "title": "Video 141",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 37,
+      "id": "ciz0mkM75oc",
+      "title": "Video 145",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 38,
+      "id": "2ME3VhVojIA",
+      "title": "Video 149",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 39,
+      "id": "b3fjBiYeaKc",
+      "title": "Video 153",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 40,
+      "id": "D2lc_1qhjII",
+      "title": "Video 157",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 41,
+      "id": "WJ6BOlw3q60",
+      "title": "Video 161",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 42,
+      "id": "ErOdVTrH3Bc",
+      "title": "Video 165",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 43,
+      "id": "HqxK8KM7O5Q",
+      "title": "Video 169",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 44,
+      "id": "bBaQfKSjeIo",
+      "title": "Video 173",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 45,
+      "id": "QsUmJLpOjHg",
+      "title": "Video 177",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 46,
+      "id": "iM3kjbbKHQU",
+      "title": "Video 181",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 47,
+      "id": "1lwddP0KUEg",
+      "title": "Video 185",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 48,
+      "id": "JWReY93Vl6g",
+      "title": "Video 189",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 49,
+      "id": "PuZY9q-aKLw",
+      "title": "Video 193",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 50,
+      "id": "ibf5cx221hk",
+      "title": "Video 197",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 51,
+      "id": "6gNpSuE01qE",
+      "title": "Video 201",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 52,
+      "id": "KSiRzuSx120",
+      "title": "Video 205",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 53,
+      "id": "ghWECXWi9kU",
+      "title": "Video 209",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 54,
+      "id": "qns1vvi0WVo",
+      "title": "Video 213",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 55,
+      "id": "3UOyky9sEQY",
+      "title": "Video 217",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 56,
+      "id": "PY_N1XdFp4w",
+      "title": "Video 221",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 57,
+      "id": "bJOvYgSqrOs",
+      "title": "Video 225",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 58,
+      "id": "SXsyLdKkKX0",
+      "title": "Video 229",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 59,
+      "id": "sopNW98CRag",
+      "title": "Video 233",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 60,
+      "id": "NzSCNjn4_RI",
+      "title": "Video 237",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 61,
+      "id": "r-7d3w5xerY",
+      "title": "Video 241",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 62,
+      "id": "pYasYyjByKI",
+      "title": "Video 245",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 63,
+      "id": "5i-Axn7KgDU",
+      "title": "Video 249",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 64,
+      "id": "MOItX2aKTGc",
+      "title": "Video 253",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 65,
+      "id": "7RgoHTMbp4A",
+      "title": "Video 257",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 66,
+      "id": "DeFST8tvtuI",
+      "title": "Video 261",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 67,
+      "id": "GxCXiSkm6no",
+      "title": "Video 265",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 68,
+      "id": "9GJ6XeB-vMg",
+      "title": "Video 269",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 69,
+      "id": "ooqXQ37XHMM",
+      "title": "Video 273",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 70,
+      "id": "YwWfKitB8aA",
+      "title": "Video 277",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 71,
+      "id": "6RbJYN7SoRs",
+      "title": "Video 281",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 72,
+      "id": "t0EzVCvQjGE",
+      "title": "Video 285",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 73,
+      "id": "RAbwchpvO1s",
+      "title": "Video 289",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 74,
+      "id": "bte8Er0QhDg",
+      "title": "Video 293",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 75,
+      "id": "SPM1tm2ZdK4",
+      "title": "Video 297",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 76,
+      "id": "Wqmtf9SA_kk",
+      "title": "Video 301",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 77,
+      "id": "QM5XDc4NQJo",
+      "title": "Video 305",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 78,
+      "id": "w2r2Bg42UPY",
+      "title": "Video 309",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 79,
+      "id": "M-Hcf-YdBAA",
+      "title": "Video 313",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 80,
+      "id": "2sehQ5oABqI",
+      "title": "Video 317",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 81,
+      "id": "U18hO1ngZEQ",
+      "title": "Video 321",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 82,
+      "id": "o3ViNZpTaKE",
+      "title": "Video 325",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 83,
+      "id": "2ZojEfR6OXk",
+      "title": "Video 329",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 84,
+      "id": "21IqiTIsqmk",
+      "title": "Video 333",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 85,
+      "id": "3DGLznJorT8",
+      "title": "Video 337",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 86,
+      "id": "xrYDlx8evR0",
+      "title": "Video 341",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 87,
+      "id": "sZl-H6GkHrk",
+      "title": "Video 345",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 88,
+      "id": "lpaq_6kU5hg",
+      "title": "Video 349",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 89,
+      "id": "3qjEPRmge8I",
+      "title": "Video 353",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 90,
+      "id": "GDkb5vGfwks",
+      "title": "Video 357",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 91,
+      "id": "1FCa7WdTG3k",
+      "title": "Video 361",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 92,
+      "id": "T8UXgR-EtoM",
+      "title": "Video 365",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 93,
+      "id": "vtViNSUPO54",
+      "title": "Video 369",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 94,
+      "id": "3my06DUnApM",
+      "title": "Video 373",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 95,
+      "id": "CQU6rObzl6w",
+      "title": "Video 377",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 96,
+      "id": "JJ9zZ8cyaEk",
+      "title": "Video 381",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 97,
+      "id": "9KE-YZ0rLTY",
+      "title": "Video 385",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 98,
+      "id": "CbHKmn3o93Q",
+      "title": "Video 389",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 99,
+      "id": "o0UDBlo5tOM",
+      "title": "Video 393",
+      "roi": 5.0,
+      "kpis": []
+    },
+    {
+      "pos": 100,
+      "id": "9oAYWSvMge8",
+      "title": "Video 397",
+      "roi": 5.0,
+      "kpis": []
+    }
+  ]
+}

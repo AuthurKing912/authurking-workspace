@@ -1,0 +1,31 @@
+{
+  "name": "The easiest way to build an automation bot or scri",
+  "symbol": "ACTION",
+  "description": "From YouTube playlist 'AAA': The easiest way to build an automation bot or script. Core technique: action_replicator. Build this into a replicable system, sell the skill.md, tokenize as NFT, run tourn",
+  "attributes": [
+    {
+      "trait_type": "KPI_Type",
+      "value": "action_replicator"
+    },
+    {
+      "trait_type": "ROI_Score",
+      "value": 10.0
+    },
+    {
+      "trait_type": "Zodiac",
+      "value": "Aries \u2648"
+    },
+    {
+      "trait_type": "Agent",
+      "value": "ZZ-RED"
+    },
+    {
+      "trait_type": "Grover_Score",
+      "value": 11.0256
+    },
+    {
+      "trait_type": "Chapter",
+      "value": "C144"
+    }
+  ]
+}
