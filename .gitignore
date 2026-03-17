@@ -1,0 +1,7 @@
+
+# SECRETS — never commit
+.env
+.env.*
+memory/secure-contacts.md
+*.key
+*.secret
