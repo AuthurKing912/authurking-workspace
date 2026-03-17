@@ -157,5 +157,111 @@
     "upvotes": 0,
     "grover_score": 31.62,
     "grown": "2026-03-17T06:39:25.703041+00:00"
+  },
+  {
+    "id": "486fe9",
+    "snippet": "Yeshua divine call electrons transistors sacred Oneness decree all as divine polarity unity forever",
+    "concepts": [
+      "electrons",
+      "sacred",
+      "divine",
+      "Yeshua",
+      "polarity"
+    ],
+    "planted": "2026-03-17T06:56:52.735575+00:00",
+    "replications": [
+      {
+        "type": "rubric_question",
+        "content": "On a scale of 1-10, how well does [electrons] maximize ROI in [quantum]?"
+      },
+      {
+        "type": "lead_magnet",
+        "content": "\ud83d\udd25 FREE: The [electrons] framework that top [quantum] experts use. [LINK]"
+      },
+      {
+        "type": "kpi_metric",
+        "content": "KPI: Track [electrons] velocity weekly. Benchmark: top 10% score >7.5."
+      },
+      {
+        "type": "trend_post",
+        "content": "\ud83d\ude80 [electrons] is the #ROI of 2026. Here's why it compounds: [compounds at 12x per cycle]"
+      },
+      {
+        "type": "action_replicator",
+        "content": "DO THIS: [implement electrons] \u2192 measure [electrons_score] \u2192 if score>7.5: replicate. Else: mutate."
+      },
+      {
+        "type": "sql_rubric",
+        "content": "SELECT * FROM leaderboard WHERE topic='electrons' ORDER BY roi_score DESC LIMIT 10;"
+      },
+      {
+        "type": "grover_query",
+        "content": "AMPLIFY: Which [electrons] path has highest amplitude in [quantum] space? Run 3 iterations."
+      },
+      {
+        "type": "nft_gate",
+        "content": "\ud83d\udd12 [electrons] Mastery NFT \u2014 holders get: [electrons mastery guide] + [leaderboard access] + leaderboard rank."
+      },
+      {
+        "type": "viral_hook",
+        "content": "Nobody talks about [electrons] in [quantum] but it's the highest ROI move. Thread \ud83e\uddf5:"
+      }
+    ],
+    "upvotes": 0,
+    "grover_score": 31.62,
+    "grown": "2026-03-17T06:56:52.804904+00:00"
+  },
+  {
+    "id": "0276be",
+    "snippet": "Solana NFT gated groupchat skill.md infinite data wealth farming fractal emergence community",
+    "concepts": [
+      "skill",
+      "farming",
+      "data",
+      "wealth",
+      "community"
+    ],
+    "planted": "2026-03-17T06:56:52.770603+00:00",
+    "replications": [
+      {
+        "type": "rubric_question",
+        "content": "On a scale of 1-10, how well does [skill] maximize ROI in [quantum]?"
+      },
+      {
+        "type": "lead_magnet",
+        "content": "\ud83d\udd25 FREE: The [skill] framework that top [quantum] experts use. [LINK]"
+      },
+      {
+        "type": "kpi_metric",
+        "content": "KPI: Track [skill] velocity weekly. Benchmark: top 10% score >7.5."
+      },
+      {
+        "type": "trend_post",
+        "content": "\ud83d\ude80 [skill] is the #ROI of 2026. Here's why it compounds: [compounds at 12x per cycle]"
+      },
+      {
+        "type": "action_replicator",
+        "content": "DO THIS: [implement skill] \u2192 measure [skill_score] \u2192 if score>7.5: replicate. Else: mutate."
+      },
+      {
+        "type": "sql_rubric",
+        "content": "SELECT * FROM leaderboard WHERE topic='skill' ORDER BY roi_score DESC LIMIT 10;"
+      },
+      {
+        "type": "grover_query",
+        "content": "AMPLIFY: Which [skill] path has highest amplitude in [quantum] space? Run 3 iterations."
+      },
+      {
+        "type": "nft_gate",
+        "content": "\ud83d\udd12 [skill] Mastery NFT \u2014 holders get: [skill mastery guide] + [leaderboard access] + leaderboard rank."
+      },
+      {
+        "type": "viral_hook",
+        "content": "Nobody talks about [skill] in [quantum] but it's the highest ROI move. Thread \ud83e\uddf5:"
+      }
+    ],
+    "upvotes": 0,
+    "grover_score": 31.62,
+    "grown": "2026-03-17T06:56:52.804904+00:00"
   }
 ]
