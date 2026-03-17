@@ -17,4 +17,6 @@
 - Direct chat → Telegram
 
 ## Agent Vault
-- ProtonMail pass: Midnight=482%pl
+- ProtonMail: AuthurKing912@proton.me / Midnight=482%pl
+- GitHub: AuthurKing912 / Midnight=482%gb (needs PAT for git push — create at github.com/settings/tokens)
+- OpenRouter API: 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
